@@ -1,3 +1,10 @@
+# Superseded by Bebop
+
+Sachiel was retired at Rainway in favor of our new binary format, [Bebop](https://github.com/RainwayApp/bebop). 
+
+It's faster and has a much simpler API.
+
+
 # sachiel-net
 
 ## What is it?
